@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Danielle Finley</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/dfin.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="menu">
+    <div class="title">MENU</div>
+    <ul class="nav">
+      <li><a href="./index.html">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="./blog.html">Travel</a></li>
+      <li><a href="#">Resources</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+</div>
+
+
+  <div class="row">
+    <div class="col-md-12 col-xs-12 fade-in">
+      <h1>Danielle Finley</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 col-xs-12 fade-in">
+      <h3>Political Professional</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 col-xs-12 bio fade-in">
+      <p>Part Sorority President, Part Rugby Player, Part Public Servant</p>
+      <p>Currently looking for fulltime roles in public policy or law enforcement in DC Area.</p>
+    </div>
+  </div>
+  <div class="intro">
+    Now Check me out
+  </div>
+  <div class="row-fluid vcenter">
+    <div class="col-md-4 col-xs-12 fade-in first">
+      <a href="https://www.linkedin.com/in/danielle-r-finley" target="_blank">
+        <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+        <p>Linkedin</p>
+      </a>
+    </div>
+
+     <div class="col-md-4 col-xs-12 fade-in second">
+      <a href="assets/resume.pdf" target="_blank">
+        <i class="fa fa-briefcase fa-2x" aria-hidden="true"></i>
+        <p>Résumé</p>
+      </a>
+    </div>
+
+    <div class="col-md-4 col-xs-12 fade-in third">
+      <a href="mailto:finleyd2@student.lasalle.edu" target="_blank">
+        <i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
+        <p>Email</p>
+      </a>
+    </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
