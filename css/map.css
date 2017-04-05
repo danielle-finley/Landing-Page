@@ -21,7 +21,7 @@ body {
   flex-direction: column;
   box-sizing: border-box;
   min-height: 100%;
-  background: linear-gradient(45deg, #4bbfef 0%, #997788 100%);
+  background: linear-gradient(45deg, #4a4a4a 0%, #e0e0e0 100%);
 }
 body *, body *:before, body *:after {
   box-sizing: inherit;
